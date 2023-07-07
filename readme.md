@@ -19,7 +19,7 @@ The results of each model are reported in the following table.
 <thead>
   <tr>
     <th class="tg-cly1" rowspan="3">Model</th>
-    <th class="tg-cly1" rowspan="6">F1-weighted</th>
+    <th class="tg-cly1" coolumnspan="6">F1-weighted</th>
   </tr>
   <tr>
     <td class="tg-cly1">Neutral</td>
