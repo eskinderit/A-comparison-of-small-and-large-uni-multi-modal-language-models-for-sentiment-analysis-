@@ -22,7 +22,7 @@ The results of each model are reported in the following table.
     <th class="tg-cly1">F1-weighted</th>
   </tr>
   <tr>
-    <td class="tg-cly1" columnspan="6">Neutral</td>
+    <td class="tg-cly1">Neutral</td>
     <td class="tg-cly1">Anger</td>
     <td class="tg-cly1">Happiness</td>
     <td class="tg-cly1">Sadness</td>
@@ -32,7 +32,7 @@ The results of each model are reported in the following table.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1" columnspan="6">Neutral</td>
+    <td class="tg-cly1">Neutral</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
@@ -41,7 +41,7 @@ The results of each model are reported in the following table.
     <td class="tg-cly1">xxx</td>
   </tr>
   <tr>
-    <td class="tg-cly1" columnspan="6">Neutral</td>
+    <td class="tg-cly1">Neutral</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
@@ -50,7 +50,7 @@ The results of each model are reported in the following table.
     <td class="tg-cly1">xxx</td>
   </tr>
   <tr>
-    <td class="tg-cly1" columnspan="6">Neutral</td>
+    <td class="tg-cly1">Neutral</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
