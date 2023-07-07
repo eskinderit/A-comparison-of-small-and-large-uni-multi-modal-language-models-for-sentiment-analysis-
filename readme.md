@@ -1,5 +1,5 @@
 # Emotion-Detection-from-audio-and-video :smile: :fearful:
-©Riccardo Paolini @Davide Femia @Alessandro D’Amico ©Sfarzo El Husseini
+©Riccardo Paolini ©Davide Femia ©Alessandro D’Amico ©Sfarzo El Husseini
 
 Sentiment analysis is the study of extracting emotions and opinions from text data. The recent popularity of sentiment analysis is due to its applications such as monitoring social media, managing brand reputation, and improving customer service. From machine learning to deep learning, sentiment analysis can categorize text as positive, negative or neutral, and identify emotions such as happiness or anger. 
 
