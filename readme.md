@@ -20,6 +20,12 @@ The results of each model are reported in the following table.
   <tr>
     <th class="tg-cly1" rowspan="3">Model</th>
     <th class="tg-cly1" columnspan="6">F1-weighted</th>
+    <td class="tg-cly1">Neutral</td>
+    <td class="tg-cly1">Anger</td>
+    <td class="tg-cly1">Happiness</td>
+    <td class="tg-cly1">Sadness</td>
+    <td class="tg-cly1">Frustration</td>
+    <td class="tg-cly1">Excited</td>
   </tr>
 </thead>
 <tbody>
