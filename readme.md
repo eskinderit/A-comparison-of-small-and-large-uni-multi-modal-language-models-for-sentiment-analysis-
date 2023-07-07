@@ -33,49 +33,22 @@ The results of each model are reported in the following table.
     <td class="tg-cly1">Excited</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Anger</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Happiness</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sadness</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Frustration</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Excited</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
     <td class="tg-cly1">CNN-BiLSTM + Albert</td>
     <td class="tg-cly1">Neutral</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
     <td class="tg-cly1">Anger</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
     <td class="tg-cly1">Happiness</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
     <td class="tg-cly1">Sadness</td>
-    <td class="tg-cly1">xxx</td>
-  </tr>
-  <tr>
     <td class="tg-cly1">Frustration</td>
-    <td class="tg-cly1">xxx</td>
+    <td class="tg-cly1">Excited</td>
   </tr>
   <tr>
+    <td class="tg-cly1">Wav2Vec + BiLSTM</td>
+    <td class="tg-cly1">Neutral</td>
+    <td class="tg-cly1">Anger</td>
+    <td class="tg-cly1">Happiness</td>
+    <td class="tg-cly1">Sadness</td>
+    <td class="tg-cly1">Frustration</td>
     <td class="tg-cly1">Excited</td>
-    <td class="tg-cly1">xxx</td>
   </tr>
 </tbody>
 </table>
