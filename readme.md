@@ -12,3 +12,66 @@ In this project we tried to join the following models:
 - CNN-BiLSTM + BiLSTM
 - CNN-BiLSTM + Albert
 - Wav2Vec + BiLSTM
+
+The results of each model are reported in the following table.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cly1" rowspan="2">Model</th>
+    <th class="tg-cly1" columnspan="6">F1-weighted</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">CNN-BiLSTM + BiLSTM</td>
+    <td class="tg-cly1">Neutral</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Anger</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Happiness</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Sadness</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Frustration</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Excited</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">CNN-BiLSTM + Albert</td>
+    <td class="tg-cly1">Neutral</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Anger</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Happiness</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Sadness</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Frustration</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Excited</td>
+    <td class="tg-cly1">xxx</td>
+  </tr>
+</tbody>
+</table>
