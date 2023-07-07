@@ -24,6 +24,7 @@ The results of each model are reported in the following table.
 </thead>
 <tbody>
   <tr>
+    <td class="tg-cly1"></td>
     <td class="tg-cly1">Neutral</td>
     <td class="tg-cly1">Anger</td>
     <td class="tg-cly1">Happiness</td>
