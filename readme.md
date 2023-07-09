@@ -17,13 +17,13 @@ The results of each model are reported in the following table.
 <thead>
   <tr>
     <th class="tg-cly1" rowspan="2">Model</th>
-    
-    <th class="tg-cly1">Neutral</td>
-    <th class="tg-cly1">Anger</td>
-    <th class="tg-cly1">Happiness</td>
-    <th class="tg-cly1">Sadness</td>
-    <th class="tg-cly1">Frustration</td>
-    <th class="tg-cly1">Excited</td>
+    <th class="tg-cly1" columnspan="6">F1-weighted</th>
+    <th class="tg-cly1">Neutral</th>
+    <th class="tg-cly1">Anger</th>
+    <th class="tg-cly1">Happiness</th>
+    <th class="tg-cly1">Sadness</th>
+    <th class="tg-cly1">Frustration</th>
+    <th class="tg-cly1">Excited</th>
   </tr>
 </thead>
 <tbody>
