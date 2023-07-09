@@ -17,7 +17,6 @@ The results of each model are reported in the following table.
 <thead>
   <tr>
     <th class="tg-cly1" rowspan="2">Model</th>
-    <th class="tg-cly1" columnspan="6">F1-weighted</th>
     <th class="tg-cly1">Neutral</th>
     <th class="tg-cly1">Anger</th>
     <th class="tg-cly1">Happiness</th>
