@@ -16,7 +16,7 @@ The results of each model are reported in the following table.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cly1" rowspan="3">Model</th>
+    <th class="tg-cly1" rowspan="2">Model</th>
     <th class="tg-cly1" columnspan="6">F1-weighted</th>
   </tr>
   <tr>
