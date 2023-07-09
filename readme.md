@@ -1,7 +1,9 @@
 # Emotion-Detection-from-audio-and-video :smile: :fearful:
 ©Riccardo Paolini ©Davide Femia ©Alessandro D’Amico ©Sfarzo El Husseini
 
-The purpose of this project is to provide guidelines for implementing a multimodal model that includes textual and audio features. Specifically, our focus is on the differences between small and large language models: we compare them in terms of size, performance, resource usage and degree of explainability for a **Sentiment Analysis** task (Emotion Recognition on the IEMOCAP dataset). In order to highlight the advantages and disadvantages of each approach and to give a meaningful evidence of the differences between the two types of models, we implement and benchmark one model for each kind (small, large) and modality (text, audio).
+The purpose of this project is to provide guidelines for implementing a multimodal model that includes textual and audio features. Specifically, our focus is on the differences between small and large language models: we compare them in terms of size, performance, resource usage and degree of explainability for a **Sentiment Analysis** task (Emotion Recognition on the IEMOCAP dataset). 
+
+In order to highlight the advantages and disadvantages of each approach and to give a meaningful evidence of the differences between the two types of models, we implement and benchmark one model for each kind (small, large) and modality (text, audio).
 
 ## Models
 In this project we tried to join the following models:
