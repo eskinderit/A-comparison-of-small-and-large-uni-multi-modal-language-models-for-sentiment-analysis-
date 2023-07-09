@@ -11,7 +11,7 @@ In this project we tried to join the following models:
 - CNN-BiLSTM + Albert
 - Wav2Vec + BiLSTM
 
-In the following table we reported the weighted F1-Score achieved by the models on the different emotions.
+In the following table we reported the weighted F1-Score achieved by the models on the different emotions:
 
 <table class="tg">
 <thead>
