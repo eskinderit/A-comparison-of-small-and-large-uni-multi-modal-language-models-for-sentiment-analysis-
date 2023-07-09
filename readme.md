@@ -27,7 +27,7 @@ In the following table we reported the weighted F1-Score achieved by the models 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">Model 1</td>
+    <td class="tg-cly1">CNN-BiLSTM + BiLSTM</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
@@ -36,7 +36,7 @@ In the following table we reported the weighted F1-Score achieved by the models 
     <td class="tg-cly1">xxx</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Model 2</td>
+    <td class="tg-cly1">CNN-BiLSTM + Albert</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
@@ -45,7 +45,7 @@ In the following table we reported the weighted F1-Score achieved by the models 
     <td class="tg-cly1">xxx</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Model 3</td>
+    <td class="tg-cly1">Wav2Vec + BiLSTM</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
     <td class="tg-cly1">xxx</td>
