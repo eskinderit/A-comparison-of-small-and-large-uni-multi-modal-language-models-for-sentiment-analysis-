@@ -1,4 +1,4 @@
-# A comparison of small and large multimodal language models for sentiment analysis :smile: :fearful:
+# A comparison of small and large (multi)modal language models for sentiment analysis :smile: :fearful:
 ©Riccardo Paolini ©Davide Femia ©Alessandro D’Amico ©Sfarzo El Husseini
 
 The purpose of this paper is to provide guidelines for implementing a multimodal model that includes textual and audio features. Specifically, our focus is on the differences between small and large language models: we compare them in terms of performances for a Sentiment Analysis task (Emotion Recognition on the IEMOCAP dataset). In order to highlight the advantages and disadvantages of each approach and to give a meaningful evidence of the differences between the two types of models, we implement and compare the scores among the single modality models (audio or text) and a bimodal model that integrates the best one for each modality, finally analyzing the effectiveness of classic fusion methods.
